@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Dammalapati Uhesh
 
-<!--
-**uheshdammalapati/uheshdammalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate (2025)  
+📊 Aspiring Data Analyst | AI Enthusiast | Python & Power BI Practitioner  
+💼 Currently looking for Data Analytics opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages**: Python, SQL, Java
+- **Tools**: Power BI, Excel, Tableau, Jupyter, Git
+- **Concepts**: Data Cleaning, EDA, ML, Dashboarding, Forecasting
+
+---
+
+## 🔥 Featured Projects
+
+- 📊 [Sales Analysis & Forecasting Dashboard](https://github.com/uheshdammalapati/Sales-Analysis-Dashboard)  
+  Power BI dashboard with KPI Cards, Forecasting, Slicers & Insights
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: uheshchowdary@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/uheshdammalapati)  
+- 🖥️ [GitHub](https://github.com/uheshdammalapati)
+
+---
+
+⭐️ **Feel free to check out my projects and connect! I'm actively seeking full-time roles in Data Analytics or AI.**
